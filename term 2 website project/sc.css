@@ -1,0 +1,33 @@
+body{font-family:StarCraft Normal;}
+.container {
+	width: 1000px;
+	border: 10px solid #000;
+	margin-left: auto;
+	margin-right: auto;
+	height: 1000px;
+}
+li a {
+display: block;
+color: blue;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+width:150px;
+}
+li {
+float: left;
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: navy;
+length: 350px;
+}
+li a:hover {
+  background-color: #111;
+}
+.active {
+  background-color: #4a5d23;
+}
