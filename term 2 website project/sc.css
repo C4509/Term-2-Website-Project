@@ -1,18 +1,23 @@
-body{font-family:StarCraft Normal;}
+body{font-family:StarCraft;
+      background-color: blue;}
 .container {
 	width: 1000px;
-	border: 10px solid #000;
+	border: 0.5px solid red;
+        border-radius: 10px;
 	margin-left: auto;
 	margin-right: auto;
 	height: 1000px;
 }
+div.title{width:600px;
+       background-color:navy;}
+h1{text-align:center;}
 li a {
 display: block;
 color: blue;
 text-align: center;
 padding: 14px 16px;
 text-decoration: none;
-width:150px;
+width:167.5px;
 }
 li {
 float: left;
@@ -23,6 +28,7 @@ margin: 0;
 padding: 0;
 overflow: hidden;
 background-color: navy;
+border-radius: 10px;
 length: 350px;
 }
 li a:hover {
