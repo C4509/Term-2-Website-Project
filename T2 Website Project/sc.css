@@ -1,0 +1,45 @@
+body{font-family:StarCraft;
+ color:#7851a9;
+ background-color: blue;}
+.container {
+	width: 1000px;
+	border: 0.5px solid red;
+        border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 1000px;
+}
+.title{width:300px;
+       background-color:navy;
+       border-radius: 30px; 
+       display: inline-block;
+	   margin-left: auto;
+	   margin-right: auto;
+       }
+h1{text-align:center;}
+li a {
+display: block;
+color: blue;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+border-right: 0.5px solid red;
+width:167.5px;
+}
+li {
+float: left;
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: navy;
+border-radius: 10px;
+}
+li a:hover {
+  background-color: #7851a9;
+}
+.active {
+  background-color: #4a5d23;
+}
