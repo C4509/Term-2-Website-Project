@@ -15,13 +15,7 @@ body{font-family:StarCraft;
 			position:         absolute;
 			
 		}
-.title{width:300px;
-       background-color:navy;
-       border-radius: 30px; 
-       display: inline-block;
-	   margin-left: auto;
-	   margin-right: auto;
-       }
+
  table,th,td{
 		         border: 1px solid red;
 				 text-align: center;
