@@ -1,0 +1,60 @@
+a:link{color: red;}
+body{font-family:StarCraft;
+ color:blue;
+ background-color: #19004D;}
+.container {
+	width: 1000px;
+	border: 0.5px solid red;
+        border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 1000px;
+}
+.table{
+		
+			border:			  1px solid black;
+			position:         absolute;
+			
+		}
+
+ table,th,td{
+		         border: 1px solid red;
+				 text-align: center;
+	   }
+	   table{border-collapse:collapse;
+	         width: 400px;}
+	   th,td{padding: 10px;}
+	   th{background-color:#4a5d23;
+	      color:#7851a9;}
+tr{background-color: navy;
+    color:blue;}
+h1{text-align:center;}
+li a {
+display: block;
+color: navy;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+border-right: 0.5px solid red;
+width:166.5px;
+}
+li {
+float: left;
+}
+ul.a {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #003366;
+border-radius: 10px;
+}
+li a:hover {
+  background-color: #7851a9;
+}
+.active {
+  background-color: #4a5d23;
+}
+ img.hate{
+         width: 700px;
+		 }
