@@ -1,7 +1,7 @@
 a:link{color: red;}
 body{font-family:StarCraft;
  color:blue;
- background-color: #19004D;}
+ background-image: "Starc.jpg";}
 .container {
 	width: 1000px;
 	border: 0.5px solid red;
@@ -9,6 +9,7 @@ body{font-family:StarCraft;
 	margin-left: auto;
 	margin-right: auto;
 	height: 1000px;
+        background-color: #19004D;
 }
 .table{
 		
@@ -31,7 +32,7 @@ tr{background-color: navy;
 h1{text-align:center;}
 li a {
 display: block;
-color: navy;
+color: red;
 text-align: center;
 padding: 14px 16px;
 text-decoration: none;
@@ -51,7 +52,7 @@ border-radius: 10px;
 }
 li a:hover {
   background-color: #7851a9;
-  color:red;
+  color:navy;
 }
 .active {
   background-color: #4a5d23;
