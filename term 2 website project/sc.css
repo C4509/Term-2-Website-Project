@@ -1,8 +1,9 @@
 a:link{color: red;}
+a:hover{color: #0000c4;}
 body{font-family:StarCraft;
- color:blue;
+ color:#0000c4;
  background-image: url('stra.jpg');
- Background-size: cover;}
+ background-size: cover;}
 .container {
 	width: 1000px;
 	border: 0.5px solid red;
@@ -10,7 +11,7 @@ body{font-family:StarCraft;
 	margin-left: auto;
 	margin-right: auto;
 	height: 1000px;
-        background-color: #19004D;
+        background-color: #00004e;
 }
 .table{
 		
@@ -27,9 +28,9 @@ body{font-family:StarCraft;
 	         width: 400px;}
 	   th,td{padding: 10px;}
 	   th{background-color:#4a5d23;
-	      color:#7851a9;}
+	      color: red;}
 tr{background-color: navy;
-    color:blue;}
+    color:#7851a9;}
 h1{text-align:center;}
 li a {
 display: block;
