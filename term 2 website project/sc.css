@@ -1,7 +1,8 @@
 a:link{color: red;}
 body{font-family:StarCraft;
  color:blue;
- background-image: "Starc.jpg";}
+ background-image: url('stra.jpg');
+ Background-size: cover;}
 .container {
 	width: 1000px;
 	border: 0.5px solid red;
